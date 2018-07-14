@@ -3,7 +3,7 @@ require(dplyr)
 ##http://www.portaldatransparencia.gov.br/downloads/servidores.asp
 #Total remuneracao servidores CDT por estado
 
-#for fix buggg
+#for fix bug
 Sys.setlocale("LC_ALL", "C")
 
 #carregando dataframes das bases de dados
